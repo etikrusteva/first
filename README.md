@@ -1,12 +1,6 @@
-#tova e readme
-tuk ima mnogo ne6ta
-tova e readme
-la
-la
-la
-la
-1
-2
-3
-4
+IT Academy QC Automation + Python
 
+You can find inside:
+1. Automation code execution with Selenium Webdriver + Python. Here we are testing web application with many bugs that is located in another repo in my account
+
+:)
